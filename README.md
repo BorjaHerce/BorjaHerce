@@ -46,7 +46,7 @@ Herce, Borja. 2017.	Spanish time constructions with hacer: gradient judgments an
 Herce, Borja. 2016.	Why frequency and morphological irregularity are not independent variables in Spanish: A response to Fratini et al. (2014). Corpus Linguistics and Linguistic Theory 12.2: 389-406.
 
 
-## Unpublished work
+## Unpublished research
 
 Herce, Borja. 2020. A Typological approach to the Morphome. University of the Basque Country and University of Surrey.
 
