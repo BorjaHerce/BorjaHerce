@@ -1,5 +1,5 @@
 # Borja Herce
-
+<img src="https://user-images.githubusercontent.com/75388402/100922218-eb98ab80-34dd-11eb-86bf-f5dfc9873fb3.jpg" width="400" height="300"/>
 I am a postdoctoral researcher at the University of Zurich (Distributional Linguistics Lab). My general research interests comprise morphology and diachrony, and the pressures that shape them. More concretely, I have been exploring the relevance of paradigmatic structure in inflectional morphology, with special attention to complex and extra-morphologically unmotivated phenomena like morphomes and inflection classes. This I do by drawing on quantitative and qualitative data from languages all over the world.
 
 
