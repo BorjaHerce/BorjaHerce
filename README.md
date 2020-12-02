@@ -43,4 +43,14 @@ Herce, Borja. 2017.	The diachrony of Spanish haber/hacer+time: a quantitative, c
 
 Herce, Borja. 2017.	Spanish time constructions with hacer: gradient judgments and corpus data so solve a syntactic conundrum. Belgian Journal of Linguistics 31.1: 272-298.
 
-2016	Why frequency and morphological irregularity are not independent variables in Spanish: A response to Fratini et al. (2014). Corpus Linguistics and Linguistic Theory 12.2: 389-406.
+Herce, Borja. 2016.	Why frequency and morphological irregularity are not independent variables in Spanish: A response to Fratini et al. (2014). Corpus Linguistics and Linguistic Theory 12.2: 389-406.
+
+
+## Unpublished work
+
+Herce, Borja. 2020. A Typological approach to the Morphome. University of the Basque Country and University of Surrey.
+
+Herce, Borja. 2015. The Synchrony and Diachrony of Deictic Time Adverbials: Spanish hacer+time in a cross-linguistic perspective. MA Thesis. University of the Basque Country. (Awarded honors distinction)
+
+Herce, Borja. 2014.	On the Grammaticalization of Reflexivity and Related Categories. BA Thesis. University of the Basque Country. (Awarded honors distinction) 
+
