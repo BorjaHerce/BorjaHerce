@@ -1,6 +1,6 @@
 # Borja Herce
 <img src="https://user-images.githubusercontent.com/75388402/100922218-eb98ab80-34dd-11eb-86bf-f5dfc9873fb3.jpg" width="400" height="300"/>
-I am a postdoctoral researcher at the University of Zurich (Distributional Linguistics Lab). My general research interests comprise morphology and diachrony, and the pressures that shape them. More concretely, I have been exploring the relevance of paradigmatic structure in inflectional morphology, with special attention to complex and extra-morphologically unmotivated phenomena like morphomes and inflection classes. This I do by drawing on quantitative and qualitative data from languages all over the world.
+I am a postdoctoral researcher at the University of Zurich (Distributional Linguistics Lab). My general research interests comprise morphology and diachrony, and the pressures that shape them. More concretely, I have been exploring the relevance of paradigmatic structure in inflectional morphology, with special attention to complex and extra-morphologically unmotivated phenomena like morphomes and inflection classes. I do this by drawing on quantitative and qualitative data from languages all over the world.
 
 ## Contact
 borjaherce[at]gmail[dot]com
@@ -10,7 +10,7 @@ borjaherce[at]gmail[dot]com
 
 Morphology, typology, language change
 
-Romance, Kiranti, Otomanguean
+Romance, Otomanguean
 
 
 
@@ -27,7 +27,11 @@ https://orcid.org/0000-0002-9493-6656
 
 ## Publications:
 
-Herce, Borja. Forthcoming. Stem alternations in Kiranti and their implications for the morphology-phonology interface. Journal of Linguistics 57
+Herce, Borja. 2022. Possessive inflection in Chichimec inalienable nouns: The morphological organization of a closed irregular class. Studies in Language.
+
+Herce, Borja. 2021. Stress and stem allomorphy in the Romance perfectum: emergence, typology, and motivations of a symbiotic relation. Linguistics.
+
+Herce, Borja. 2021. Stem alternations in Kiranti and their implications for the morphology-phonology interface. Journal of Linguistics 57, 2: 321-363
 
 Herce, Borja. 2020.	Alignment of forms in Spanish verbal inflection: the gang poner, tener, venir, salir, valer as a window into the nature of paradigmatic analogy and predictability. Morphology 30: 91-115
 
