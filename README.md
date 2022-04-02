@@ -8,9 +8,7 @@ borjaherce[at]gmail[dot]com
 
 ## Key interests and expertise:
 
-Inflectional morphology, typology, language change
-
-Romance, Otomanguean
+Inflectional paradigms, language change, typology, Romance, Otomanguean
 
 
 
